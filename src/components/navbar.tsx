@@ -5,13 +5,6 @@ import { Fira_Code } from 'next/font/google';
 const firaCode = Fira_Code({ subsets: ['latin'] });
 
 
-const geistCondensed = Geist({
-  subsets: ['latin'],
-  weight: '400',
-  display: 'swap',
-  adjustFontFallback: false,
-});
-
 const Navbar = () => {
     const socialLinks = [
         { name: 'Email', href: 'mailto:apurvamalasi5@gmail.com', icon: 'gmail.svg' },
