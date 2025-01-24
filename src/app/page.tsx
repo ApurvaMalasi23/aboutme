@@ -16,7 +16,7 @@ export default function Home() {
                           I am very efficient in computational fields and very effective in areas of business.
                           I have a strong background of running organizations and start-ups, so I bring a fresh new perspective to coding tasks.
                           I know how a piece of code works but more importantly, I understand how it makes money for the corporation.
-                          I understand the difference between a "project" and a "product". I am Apurva Malasi, and I am the best at what I do.
+                          I understand the difference between a project and a PRODUCT. I am Apurva Malasi, and I am the best at what I do.
                       </p>
                   </div>
 
