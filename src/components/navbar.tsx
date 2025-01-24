@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Geist } from 'next/font/google';
 import { Fira_Code } from 'next/font/google';
 const firaCode = Fira_Code({ subsets: ['latin'] });
 
